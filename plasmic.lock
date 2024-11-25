@@ -1,0 +1,19 @@
+{
+  "projects": [
+    {
+      "projectId": "wCGir4ksPVkdWk1TBPEgNf",
+      "version": "latest",
+      "dependencies": {},
+      "lang": "ts",
+      "fileLocks": [
+        {
+          "assetId": "wCGir4ksPVkdWk1TBPEgNf",
+          "type": "projectCss",
+          "checksum": "3ff1a8d21c8cec42dd6ece1eedd3f42d"
+        }
+      ],
+      "codegenVersion": "0.0.1"
+    }
+  ],
+  "cliVersion": "0.1.330"
+}
